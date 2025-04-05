@@ -1,8 +1,6 @@
 # Seren - Your Mental Wellness Companion
 
-![Seren Banner](https://images.unsplash.com/photo-1506126613408-eca07ce68773?q=80&w=2502&auto=format&fit=crop)
-
-PsychTech is a modern, web-first mental wellness application built with React Native and Expo. It provides a safe, anonymous space for users to access AI-powered counseling, connect with peers, and utilize self-help tools.
+Seren is a modern, web-first mental wellness application built with React Native and Expo. It provides a safe, anonymous space for users to access AI-powered counseling, connect with peers, and utilize self-help tools.
 
 ## 🌟 Features
 
@@ -77,16 +75,13 @@ We welcome contributions to PsychTech! Please read our contributing guidelines b
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
 - [Expo](https://expo.dev/) for the amazing development framework
 - [React Native](https://reactnative.dev/) for the core technology
 - [Unsplash](https://unsplash.com/) for the beautiful images
-- All contributors who have helped shape PsychTech
+- All contributors who have helped shape Seren
 
 ---
 
