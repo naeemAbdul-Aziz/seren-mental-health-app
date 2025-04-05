@@ -1,6 +1,16 @@
 # Seren - Your Mental Wellness Companion
+> ⚠️ **Development Status**: Seren is currently in active development. Many features are still being implemented and may not be fully functional. This is a preview version and should not be used in production environments yet.
 
 Seren is a modern, web-first mental wellness application built with React Native and Expo. It provides a safe, anonymous space for users to access AI-powered counseling, connect with peers, and utilize self-help tools.
+
+## 🚧 Development Notice
+
+Please be aware that:
+- Some features may be incomplete or non-functional
+- The AI counseling system is in beta testing
+- Database integrations are still being implemented
+- Security features are under active development
+- The UI/UX may undergo significant changes
 
 ## 🌟 Features
 
